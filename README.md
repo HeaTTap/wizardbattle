@@ -9,5 +9,5 @@ this game is broken as hell!
 this game was made with C and C++ ONLY ( alongside openGL )
 man this was a waste of tokens....
 
-cd into the folder and run:
+cd into the build folder and run:
 ./wizardbattle
