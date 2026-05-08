@@ -1,0 +1,3 @@
+/home/aaronlm/Documents/wizardbattle/build/CMakeFiles/wizardbattle.dir
+/home/aaronlm/Documents/wizardbattle/build/CMakeFiles/edit_cache.dir
+/home/aaronlm/Documents/wizardbattle/build/CMakeFiles/rebuild_cache.dir
