@@ -30,6 +30,7 @@ Window::Window(const char* title, int width, int height)
         return;
     }
 
+    glewExperimental = GL_TRUE;
     GLenum glewErr = glewInit();
     if (glewErr != GLEW_OK) {
         fprintf(stderr, "GLEW init failed: %s\n", glewGetErrorString(glewErr));

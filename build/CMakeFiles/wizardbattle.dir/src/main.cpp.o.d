@@ -373,4 +373,8 @@ CMakeFiles/wizardbattle.dir/src/main.cpp.o: \
  /home/aaronlm/Documents/wizardbattle/src/mob/Ogre.h \
  /home/aaronlm/Documents/wizardbattle/src/mob/Dragon.h \
  /home/aaronlm/Documents/wizardbattle/src/ui/HUD.h \
- /home/aaronlm/Documents/wizardbattle/src/ui/DamageNumbers.h
+ /home/aaronlm/Documents/wizardbattle/src/ui/DamageNumbers.h \
+ /usr/include/unistd.h /usr/include/bits/posix_opt.h \
+ /usr/include/bits/environments.h /usr/include/bits/confname.h \
+ /usr/include/bits/getopt_posix.h /usr/include/bits/getopt_core.h \
+ /usr/include/bits/unistd_ext.h /usr/include/linux/close_range.h

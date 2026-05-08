@@ -3566,15 +3566,19 @@ CMakeFiles/wizardbattle.dir/src/main.cpp.o: /home/aaronlm/Documents/wizardbattle
   /usr/include/assert.h \
   /usr/include/bits/atomic_wide_counter.h \
   /usr/include/bits/byteswap.h \
+  /usr/include/bits/confname.h \
   /usr/include/bits/cpu-set.h \
   /usr/include/bits/endian.h \
   /usr/include/bits/endianness.h \
+  /usr/include/bits/environments.h \
   /usr/include/bits/errno.h \
   /usr/include/bits/floatn-common.h \
   /usr/include/bits/floatn.h \
   /usr/include/bits/flt-eval-method.h \
   /usr/include/bits/fp-fast.h \
   /usr/include/bits/fp-logb.h \
+  /usr/include/bits/getopt_core.h \
+  /usr/include/bits/getopt_posix.h \
   /usr/include/bits/iscanonical.h \
   /usr/include/bits/libc-header-start.h \
   /usr/include/bits/libm-simd-decl-stubs.h \
@@ -3588,6 +3592,7 @@ CMakeFiles/wizardbattle.dir/src/main.cpp.o: /home/aaronlm/Documents/wizardbattle
   /usr/include/bits/mathcalls.h \
   /usr/include/bits/posix1_lim.h \
   /usr/include/bits/posix2_lim.h \
+  /usr/include/bits/posix_opt.h \
   /usr/include/bits/pthread_stack_min-dynamic.h \
   /usr/include/bits/pthreadtypes-arch.h \
   /usr/include/bits/pthreadtypes.h \
@@ -3634,6 +3639,7 @@ CMakeFiles/wizardbattle.dir/src/main.cpp.o: /home/aaronlm/Documents/wizardbattle
   /usr/include/bits/typesizes.h \
   /usr/include/bits/uintn-identity.h \
   /usr/include/bits/uio_lim.h \
+  /usr/include/bits/unistd_ext.h \
   /usr/include/bits/waitflags.h \
   /usr/include/bits/waitstatus.h \
   /usr/include/bits/wchar.h \
@@ -3927,6 +3933,7 @@ CMakeFiles/wizardbattle.dir/src/main.cpp.o: /home/aaronlm/Documents/wizardbattle
   /usr/include/gnu/stubs-64.h \
   /usr/include/gnu/stubs.h \
   /usr/include/limits.h \
+  /usr/include/linux/close_range.h \
   /usr/include/linux/errno.h \
   /usr/include/linux/limits.h \
   /usr/include/linux/posix_types.h \
@@ -3948,6 +3955,7 @@ CMakeFiles/wizardbattle.dir/src/main.cpp.o: /home/aaronlm/Documents/wizardbattle
   /usr/include/sys/single_threaded.h \
   /usr/include/sys/types.h \
   /usr/include/time.h \
+  /usr/include/unistd.h \
   /usr/include/wchar.h \
   /usr/lib/gcc/x86_64-pc-linux-gnu/16.1.1/include/float.h \
   /usr/lib/gcc/x86_64-pc-linux-gnu/16.1.1/include/limits.h \
@@ -9107,8 +9115,6 @@ CMakeFiles/wizardbattle.dir/src/ui/DamageNumbers.cpp.o:
 
 CMakeFiles/wizardbattle.dir/src/player/Wizard.cpp.o:
 
-CMakeFiles/wizardbattle.dir/src/player/SpellBook.cpp.o:
-
 CMakeFiles/wizardbattle.dir/src/player/Spell.cpp.o:
 
 CMakeFiles/wizardbattle.dir/src/mob/Spawner.cpp.o:
@@ -9201,11 +9207,27 @@ CMakeFiles/wizardbattle.dir/src/core/Renderer.cpp.o:
 
 /home/aaronlm/Documents/wizardbattle/src/mob/Dragon.cpp:
 
+CMakeFiles/wizardbattle.dir/src/player/SpellBook.cpp.o:
+
+/usr/include/unistd.h:
+
+/usr/include/linux/close_range.h:
+
+/usr/include/bits/unistd_ext.h:
+
+/usr/include/bits/getopt_posix.h:
+
+/usr/include/bits/getopt_core.h:
+
+/usr/include/bits/environments.h:
+
 /home/aaronlm/Documents/wizardbattle/src/mob/Spawner.cpp:
 
 /home/aaronlm/Documents/wizardbattle/src/main.cpp:
 
 /home/aaronlm/Documents/wizardbattle/src/entity/GameObject.cpp:
+
+/usr/include/bits/posix_opt.h:
 
 /home/aaronlm/Documents/wizardbattle/src/entity/Components.cpp:
 
@@ -9794,6 +9816,8 @@ CMakeFiles/wizardbattle.dir/src/ui/HUD.cpp.o:
 /usr/include/SDL3/SDL_process.h:
 
 /usr/include/bits/types/__mbstate_t.h:
+
+/usr/include/bits/confname.h:
 
 /usr/include/SDL3/SDL_gamepad.h:
 
